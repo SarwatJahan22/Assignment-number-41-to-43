@@ -1,0 +1,12 @@
+{
+  "name": "q41-to-43",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sarwat Jahan",
+  "license": "ISC",
+  "description": "in this typescript file we solved all 45 assignment of governor sindh IT course"
+}
